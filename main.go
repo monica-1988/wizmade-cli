@@ -8,6 +8,6 @@ import "fmt"
 const HomepageURL = "https://wizmade.si/"
 
 func main() {
-    fmt.Println("Wizmade - AI image and video creation studio")
-    fmt.Println("Homepage:", HomepageURL)
+	fmt.Println("Wizmade - AI image and video creation studio")
+	fmt.Println("Homepage:", HomepageURL)
 }

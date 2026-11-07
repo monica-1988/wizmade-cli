@@ -27,7 +27,8 @@ go vet ./...
 go build .
 ```
 
-Remote installation and pkg.go.dev indexing are pending repository publication.
+The source repository is `github.com/monica-1988/wizmade-cli`.
+Registry documentation indexing is tracked separately.
 
 ## License
 
